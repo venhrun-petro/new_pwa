@@ -2,7 +2,7 @@
   "name": "Daisy",
   "short_name": "Daisy",
   "scope": "./",
-  "start_url": "index.html",
+  "start_url": "https://daisy-pwa.netlify.com/",
   "display": "standalone",
   "orientation": "any",
   "theme_color": "transparent",
