@@ -1,6 +1,6 @@
-// 'use strict';
+'use strict';
 
-importScripts('sw-toolbox.js');
+importScripts('https://daisy-pwa.netlify.com/sw-toolbox.js');
 
 toolbox.precache(["index.html","compiled.min.css"]);
 
